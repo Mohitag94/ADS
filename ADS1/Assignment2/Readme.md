@@ -32,5 +32,9 @@ The 12 selected conturies are:
 
 The stats and trends were looked from the year 1990 to 2020.
 
-Note: 
-No plots/grahs are shown but all are saved directly in the working directory.
+Note:
+<ol>
+  <li>No plots/grahs are shown but all are saved directly in the working directory.</li>
+  <li>source_code_22031257.py is the python program file</li>
+  <li>Assignment2_22031257_Report.pdf is the report file</li>
+</ol>
