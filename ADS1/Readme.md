@@ -1,3 +1,7 @@
-Assignments for Applied for Data Science 1 Module
+# Assignments and Projects for Applied Data Science.
 
-1.Assignment1: Visualization
+## Applied Data Science 1 Module 
+<ol>
+  <li>Assignment-1: Visualization</li>
+  <li>Assignment-2: Statistics and Trends</li>
+</ol>
