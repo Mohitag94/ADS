@@ -1,6 +1,5 @@
 <h2>7PAM2000 Applied Data Science 1</h1>
 <h3>Assignment 3: Clustering and Fitting</h3>
-------------------------------------------------------------------------------
 Mohit Agarwal (Student ID-22031257)
 
 Exploring the impact of Economical Growth on Climate, using indicators
