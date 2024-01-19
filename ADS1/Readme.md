@@ -4,4 +4,5 @@
 <ol>
   <li>Assignment-1: Visualization</li>
   <li>Assignment-2: Statistics and Trends</li>
+  <li>Assignment-3: Clustering and Curve_Fitting</li>
 </ol>
