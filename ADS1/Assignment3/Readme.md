@@ -1,4 +1,3 @@
-"""
 7PAM2000 Applied Data Science 1
 Assignment 3: Clustering and Fitting
 ------------------------------------------------------------------------------
@@ -36,4 +35,3 @@ The program will create three type of graphs, namely:-
 
 Note: 
 No plots/grahs are shown but all are saved directly in the working directory.
-"""
