@@ -482,7 +482,12 @@ def eda(filename, file_metadata):
     # df.dropna(axis="index", how="all", inplace=True)
     # taking a transpose of the indicator file
     df_transpose = df.T
+    # renaming the axis 
     df_transpose.rename_axis("Years", inplace=True)
+    # dropping all the nan's values row-wise
+    df_transpose.dropna(axis="index", inplace=True)
+    # dropping all the nan's values column-wise
+    df_transpose.dropna(axis="columns", inplace=True)
 
     return df, df_merge, df_transpose
 # end of the eda function
