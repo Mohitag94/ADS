@@ -1,4 +1,4 @@
-##7PAM2000 Applied Data Science 1
+<h1>7PAM2000 Applied Data Science 1</h1>
 ###Assignment 3: Clustering and Fitting
 ------------------------------------------------------------------------------
 Mohit Agarwal (Student ID-22031257)
